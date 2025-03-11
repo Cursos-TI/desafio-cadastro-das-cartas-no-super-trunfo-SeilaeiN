@@ -9,7 +9,7 @@ int main() {
     float pib1, pib2;
     int pontosTuristicos1, pontosTuristicos2;
 
-    // Entrada de dados para a primeira carta
+    // Entrada de dados para a primeira carta do super trunfo
     printf("Digite a letra do Estado (A-H) para a Carta 1: ");
     scanf(" %c", &estado1);
     printf("Digite o código da Carta 1 (ex: A01): ");
@@ -25,7 +25,7 @@ int main() {
     printf("Digite o número de pontos turísticos da Cidade 1: ");
     scanf(" %d", &pontosTuristicos1);
 
-    // Entrada de dados para a segunda carta
+    // Entrada de dados para a segunda carta do super trunfo
     printf("\nDigite a letra do Estado (A-H) para a Carta 2: ");
     scanf(" %c", &estado2);
     printf("Digite o código da Carta 2 (ex: B02): ");
