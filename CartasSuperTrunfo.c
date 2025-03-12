@@ -50,7 +50,7 @@ int main() {
     printf("Digite o número de pontos turísticos da Cidade 2: ");
     scanf(" %d", &pontosTuristicos2);
 
-    // Calcula do PIB per capta e da Densidade populacional
+    // Calculos do PIB per capta e da Densidade populacional
 
     densidade1 = (populacao1) / area1;
     densidade2 = (populacao2) /area2;
